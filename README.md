@@ -2,15 +2,20 @@
 Learning anti-cheats / cheats as a hobby. I'm using my knowledge to provide projects for anti-cheats / cheaters.  
 Those can be freely used as learning / pen-test material. should reduce "reinvent the wheel" effect.
 
-I'm working for both sides, Anti-Cheating/Cheating both requires the same creativity. both are cool up to certain point.  
-VAC/EAC/Vanguard are good examples of cool anti-cheats, because they are really effective and not going to  
-block you forever for bad decisions.
+I'm working for both sides, Anti-Cheating/Cheating both requires the same creativity. Both are cool up to certain point.  
+VAC/EAC/Vanguard are good examples of cool anti-cheats, because they are really **effective** and not going to  
+block you forever for bad decisions you have made.  
+
+I did try Vanguard Anti-Cheat with pcileech-wifi project, and to my surprise they allow good amount of public **non cheating** tools.  
+For example RWEverything. Thats really nice and gives good trust towards the client feeling, i really did like that experience.  
+To clarify more, I know people who got banned for example (RICOCHET) MW2, without ever cheating in that game  
+just by having tools what could been potentially abused for cheating installed.
 
 
 # Memory Access  
 **EFI**: [SubGetVariable](https://github.com/ekknod/SubGetVariable) - infects DXE bios image with backdoor before boot.  
 **EFI**: [EC](https://github.com/ekknod/EC) - CS:GO cheat, what combines some of my public repositories together.  
-**FPGA**: [pcileech-wifi](https://github.com/ekknod/pcileech-wifi) - FPGA card looks like a wireless adapter, but hides inside pcileech-fgpa researching tool.  
+**FPGA**: [pcileech-wifi](https://github.com/ekknod/pcileech-wifi) - FPGA card looks like a wireless adapter, but hides inside [pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) researching tool.  
 **SMM**: [smm](https://github.com/ekknod/smm) - modified SMM bios image manipulates CS:GO cvar (cl_countbones) on system sleep mode [(see video)](https://streamable.com/58y7zz).  
 **Vulnerable Driver**: [AmdRyzenMasterCheat](https://github.com/ekknod/AmdRyzenMasterCheat) - remote access tool inside AmdRyzenMaster utility, what takes paylods through network  
 **UM**: [SetWindowHookEx](https://github.com/ekknod/SetWindowHookEx) - executes vulnerable routines inside CS:GO with SetWindowHookEx for wallhack effect.  
