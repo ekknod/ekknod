@@ -8,7 +8,7 @@ block you forever for bad decisions you have made.
 
 I did try Vanguard Anti-Cheat with pcileech-wifi project, and to my surprise they allow good amount of public **non cheating** tools.  
 For example RWEverything. Thats really nice and gives good trust towards the client feeling, i really did like that experience.  
-To clarify more, I know people who got banned for example (RICOCHET) MW2, without ever cheating in that game  
+To clarify more, I know people who got banned from (RICOCHET) MW2, without ever cheating in that game  
 just by having tools what could been potentially abused for cheating installed.
 
 
