@@ -4,7 +4,7 @@ Those can be freely used as learning / pen-test material. should reduce "reinven
 
 I'm working for both sides, Anti-Cheating/Cheating both requires the same creativity. both are cool up to certain point.  
 VAC/EAC/Vanguard are good examples of cool anti-cheats, because they are really effective and not going to  
-block you forever from their game for bad decisions.
+block you forever for bad decisions.
 
 
 # Memory Access  
