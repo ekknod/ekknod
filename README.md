@@ -1,4 +1,4 @@
-# ekknod.github.io
+# About ekknod
 Learning anti-cheats / cheats as a hobby. I'm using my knowledge to provide projects for anti-cheats / cheaters.  
 Those can be freely used as learning / pen-test material. should reduce "reinvent the wheel" effect.
 
