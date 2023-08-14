@@ -9,8 +9,8 @@ Both are cool up to certain point. VAC/EAC/Vanguard are good examples of cool an
 Obviously no cheat / anti-cheat is perfect.
 
 
-To clarify more, I know people who got banned from MW2 (**RICOCHET Anti-Cheat**), without ever cheating in that game  
-just by having tools what could been potentially abused for cheating installed.  
+To clarify more, I know people who got banned from MW2 (**RICOCHET Anti-Cheat**),  
+without ever cheating in that game just by having tools installed that could be used for cheating installed.  
 That's like accusing woodsman for non happened murder because he got axe in his hands.
 
 
