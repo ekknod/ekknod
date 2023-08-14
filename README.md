@@ -1,15 +1,17 @@
 # About ekknod
-Learning anti-cheats / cheats as a hobby. I'm using my knowledge to provide projects for anti-cheats / cheaters.  
-Those can be freely used as learning / pen-test material. should reduce "reinvent the wheel" effect.
+Writing anti-cheats / cheats as a hobby, more of proof of concept / researching.  
+I'm sharing my knowledge to provide projects for anti-cheats / cheaters.  
+These projects can be used as learning / pen-test material. trying to reduce "reinvent the wheel".
 
-I'm working for both sides, Anti-Cheating/Cheating both requires the same creativity. Both are cool up to certain point.  
-VAC/EAC/Vanguard are good examples of cool anti-cheats, because they are really **effective** and not going to  
-block you forever for bad decisions you have made.  
 
-I did try Vanguard Anti-Cheat with pcileech-wifi project, and to my surprise they allow good amount of public **non cheating** tools.  
-For example RWEverything. Thats really nice and gives good trust towards the client feeling, i really did like that experience.  
-To clarify more, I know people who got banned from (RICOCHET) MW2, without ever cheating in that game  
-just by having tools what could been potentially abused for cheating installed.
+Anti-Cheating and cheating are actually the very same thing, i don't pick sides. both requires the same creativity.  
+Both are cool up to certain point. VAC/EAC/Vanguard are good examples of cool anti-cheats, because they are less likely to harm non cheating players.
+Obviously no cheat / anti-cheat is perfect.
+
+
+To clarify more, I know people who got banned from MW2 (**RICOCHET Anti-Cheat**), without ever cheating in that game  
+just by having tools what could been potentially abused for cheating installed.  
+That's like accusing woodsman for non happened murder because he got axe in his hands.
 
 
 # Memory Access  
