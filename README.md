@@ -28,5 +28,4 @@ That's like accusing woodsman of a murder that didn't happen, because he owns ax
 
 # General cool projects
 **EFI**: [efi-monitor](https://github.com/ekknod/efi-monitor) - hooking ntosknrl.exe before launch  
-**Utility**: [drvscan](https://github.com/ekknod/drvscan) - verify system integrity with multiple available options. e.g. clean vs. dirty system comparisons.  
-**Utility**: [Anti-Cheat-TestBench](https://github.com/ekknod/Anti-Cheat-TestBench) - outdated project. catches hidden executing threads from system.  
+**Utility**: [drvscan](https://github.com/ekknod/drvscan) - anti-malware tool. it can scan PCI devices/ process integrity / EFI integrity
