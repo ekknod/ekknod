@@ -1,12 +1,9 @@
 # About ekknod
-Writing anti-cheats / cheats as a hobby, more of proof of concept / researching.  
-These projects can be used as learning / pen-test material. trying to reduce "reinvent the wheel".
-
+Researching computer cheats as a hobby.  
 
 Anti-Cheating and cheating are actually the very same thing, i don't pick sides. both requires the same creativity.  
 Both are cool up to certain point. VAC/EAC/Vanguard are good examples of cool anti-cheats, because they are less likely to harm non cheating players.
 Obviously no cheat / anti-cheat is perfect.
-
 
 To clarify more, I know people who got banned from MW2 (**RICOCHET Anti-Cheat**),  
 without ever cheating in that game just by having tools installed that could be used for cheating.  
