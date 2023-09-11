@@ -15,11 +15,11 @@ That's like accusing woodsman of a murder that didn't happen, because he owns ax
 
 # Memory Access  
 **EFI**: [SubGetVariable](https://github.com/ekknod/SubGetVariable) - infects DXE bios image with backdoor before boot.  
-**EFI**: [EC](https://github.com/ekknod/EC) - CS:GO cheat, what combines some of my public repositories together.  
+**EFI**: [EC](https://github.com/ekknod/EC) - CS:GO cheat (EFI/DMA/Kernel/Usermode)  
 **FPGA**: [pcileech-wifi](https://github.com/ekknod/pcileech-wifi) - FPGA card looks like a wireless adapter, but hides inside [pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) researching tool.  
 **SMM**: [smm](https://github.com/ekknod/smm) - modified SMM bios image manipulates CS:GO cvar (cl_countbones) on system sleep mode [(see video)](https://streamable.com/58y7zz).  
-**Vulnerable Driver**: [AmdRyzenMasterCheat](https://github.com/ekknod/AmdRyzenMasterCheat) - remote access tool inside AmdRyzenMaster utility, what takes paylods through network  
-**UM**: [SetWindowHookEx](https://github.com/ekknod/SetWindowHookEx) - executes vulnerable routines inside CS:GO with SetWindowHookEx for wallhack effect.  
+**Vulnerable Driver**: [AmdRyzenMasterCheat](https://github.com/ekknod/AmdRyzenMasterCheat) - remote access tool inside AmdRyzenMaster utility, which takes paylods through network  
+**UM**: [SetWindowHookEx](https://github.com/ekknod/SetWindowHookEx) - executes vulnerable routines inside CS:GO to enable wallhack.  
 
 # Mouse Input
 **UM**: [logitech-cve](https://github.com/ekknod/logitech-cve) - uses logitech virtual driver for mouse input  
