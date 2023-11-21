@@ -23,7 +23,8 @@ That's like accusing woodsman of a murder that didn't happen, because he owns ax
 **KM**: [MouseClassServiceCallbackTrick](https://github.com/ekknod/MouseClassServiceCallbackTrick) - spoofs _ReturnAddress() to get through Anti-Cheat hook.  
 **KM**: [MouseClassServiceCallbackMeme](https://github.com/ekknod/MouseClassServiceCallbackMeme) - rewrites mouse callback to completely circuivement Anti-Cheat hook.  
 **KM**: [acdrv](https://github.com/ekknod/acdrv) - trying to detect kernel mouse input manipulation  
+**UM**: [ec-guard](https://github.com/ekknod/ec-guard) - trying to detect usermode mouse input manipulation  
 
 # General cool projects
-**EFI**: [efi-monitor](https://github.com/ekknod/efi-monitor) - hooking ntosknrl.exe before launch  
+**EFI**: [efi-monitor](https://github.com/ekknod/efi-monitor) - hooking ntoskrnl.exe before launch  
 **Utility**: [drvscan](https://github.com/ekknod/drvscan) - tool for scanning memory/PCI/EFI  
