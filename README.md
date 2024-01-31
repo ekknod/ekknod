@@ -7,7 +7,7 @@ Obviously no cheat / anti-cheat is perfect.
 
 To clarify more, I know people who got banned from MW2 (**RICOCHET Anti-Cheat**),  
 without ever cheating in that game just by having tools installed that could be used for cheating.  
-That's like accusing woodsman of a murder that didn't happen, because he owns axe.
+That's like accusing woodsman of a murder that didn't happen, because he owns an axe.
 
 
 # Memory Access  
