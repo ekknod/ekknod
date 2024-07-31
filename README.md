@@ -1,9 +1,10 @@
 # About ekknod
-Researching computer cheats as a hobby, currently more interested of anti-cheating.  
+Researching computer cheats as a hobby, currently more interested about anti-cheating.  
+I don't pick sides, without cheaters there wouldn't be anti-cheats neither.  
+In generally i like the cat and mouse game, and excited to see what is going to be the final solution.  
 
-Anti-Cheating and cheating are actually the very same thing, i don't choose sides. Both requires the same creativity.  
-VAC/EAC/Vanguard are good examples of cool anti-cheats, because they are less likely to harm non cheating players.
-Obviously no cheat / anti-cheat is perfect.
+Anti-Cheating and cheating are actually the very same thing, both requires same creative mind.  
+VAC/EAC/Vanguard are good examples of cool anti-cheats, because they are less likely cause harm non cheating players.  
 
 # Memory Access  
 **[SubGetVariable](https://github.com/ekknod/SubGetVariable)** - infects DXE bios image with backdoor before boot.  
@@ -23,5 +24,5 @@ Obviously no cheat / anti-cheat is perfect.
 
 # Full Software (Actively updated)
 **[ec-guard](https://github.com/ekknod/ec-guard)** - Usermode anti-cheat component (mouse input detection)  
-**[EC](https://github.com/ekknod/EC)** - CS:GO/Apex/CS2 **pen-test** (EFI/DMA/Kernel/Usermode/Linux)  
-**[drvscan](https://github.com/ekknod/drvscan)** - advanced tool for scanning PE images / PCI devices / EFI memory tables
+**[EC](https://github.com/ekknod/EC)** - CS:GO/Apex/CS2 **pen-test** (EFI/DMA/Kernel/Usermode/Linux/Proton)  
+**[drvscan](https://github.com/ekknod/drvscan)** - advanced tool for scanning PE images / PCI devices / input devices / EFI memory tables
