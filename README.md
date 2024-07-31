@@ -4,7 +4,7 @@ I don't pick sides, without cheaters there wouldn't be anti-cheats neither.
 In generally i like the cat and mouse game, and excited to see what is going to be the final solution.  
 
 Anti-Cheating and cheating are actually the very same thing, both requires same creative mind.  
-VAC/EAC/Vanguard are good examples of cool anti-cheats, because they are less likely cause harm non cheating players.  
+VAC/EAC/Vanguard are good examples of cool anti-cheats, because they are less likely to cause harm for non cheating players.
 
 # Memory Access  
 **[SubGetVariable](https://github.com/ekknod/SubGetVariable)** - infects DXE bios image with backdoor before boot.  
