@@ -22,7 +22,7 @@ VAC/EAC/Vanguard are good examples of cool anti-cheats, because they are less li
 **[efi-monitor](https://github.com/ekknod/efi-monitor)** - hooking ntoskrnl.exe before launch  
 **[acdrv](https://github.com/ekknod/acdrv)** - base (mouse/exception/syscall/swapctx)   
 
-# Full Software (Actively updated)
+# Full Software
 **[ec-guard](https://github.com/ekknod/ec-guard)** - Usermode anti-cheat component (mouse input detection)  
 **[EC](https://github.com/ekknod/EC)** - CS:GO/Apex/CS2 **pen-test** (EFI/DMA/Kernel/Usermode/Linux/Proton)  
 **[drvscan](https://github.com/ekknod/drvscan)** - advanced tool for scanning PE images / PCI devices / input devices / EFI memory tables
